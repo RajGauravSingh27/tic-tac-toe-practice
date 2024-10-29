@@ -1,1 +1,1 @@
-# tic-tac-toe-practice
+# tic-tac-toe
